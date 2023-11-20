@@ -1,0 +1,5 @@
+duckduckgo_search
+colorama
+tls_client
+beautifulsoup4
+tqdm
