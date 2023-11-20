@@ -1,8 +1,8 @@
 # GPT Knowledge Base Generator
 
-## Overview
-
+```
 This tool serves as a data scraper to generate knowledge bases tailored for GPT-related applications, such as training assistants and GPTs. It utilizes DuckDuckGo search to fetch relevant information, allowing users to create custom knowledge bases.
+```
 
 ## Installation
 
